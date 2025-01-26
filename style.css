@@ -4,9 +4,13 @@
     border: 0;
 }
 
+body{
+    background: lightblue;
+}
+
 .container{
     padding: 20px 40px 70px ;
-    margin: 0 auto;
+    margin: 70px auto;
     background: white;
     width: 100%;
     max-width: 600px;
@@ -43,7 +47,7 @@
     color: #fff;
     border: none;
     outline: none;
-    padding: 1rem 2rem;
+    padding: 0.3rem 1rem;
     border-radius: 30px;
     margin-left: 5px;
     font-size: 1.7rem;
